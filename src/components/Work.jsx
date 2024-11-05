@@ -7,19 +7,19 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "/src/images/project-1.png",
+    imgSrc: "/images/project-1.png",
     title: "Random Quote",
     tags: ["API", "SPA"],
     projectLink: "https://random-quote-machine-three-mu.vercel.app/",
   },
   {
-    imgSrc: "/src/images/project-2.png",
+    imgSrc: "/images/project-2.png",
     title: "Markdown Previewer",
     tags: ["SPA"],
     projectLink: "https://markdown-previewer-three-beige.vercel.app/",
   },
   {
-    imgSrc: "/src/images/project-3.png",
+    imgSrc: "/images/project-3.png",
     title: "Pokédex",
     tags: ["Development", "API", "SPA"],
     projectLink: "https://denzelnavarro.github.io/Pokedex/",

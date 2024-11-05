@@ -14,7 +14,7 @@ const Hero = () => {
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
               <img
-                src="/src/images/avatar-1.png"
+                src="/images/avatar-1.png"
                 width={40}
                 height={40}
                 alt="Denzel Navarro Portrait"
@@ -52,7 +52,7 @@ const Hero = () => {
         <div className="hidden lg:block">
           <figure className="w-full max-w-[480px] ml-auto rounded-[60px] overflow-hidden">
             <img
-              src="/src/images/hero-banner.png"
+              src="/images/hero-banner.png"
               width={656}
               height={800}
               alt="Denzel Navarro"
